@@ -24,7 +24,7 @@ Overleaf:
 [Checkpoint_1_CS465.pdf](https://github.com/user-attachments/files/26698804/Checkpoint_1_CS465.pdf)
 https://www.overleaf.com/read/xcbwvtxyhvbt#15329f
 
-## How it works (basic)
+## How it works
 We used Unity with the XR Interaction Toolkit.
 
 - The TV uses a script with a coroutine to handle the delay, flicker, and sound
