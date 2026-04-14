@@ -18,8 +18,6 @@ Right now we’re mainly focused on getting the core interactions working.
 [https://youtu.be/xcYaRdA9RnQ]
 
 ## Paper
-PDF is included in this repo.
-
 Overleaf:  
 [Checkpoint_1_CS465.pdf](https://github.com/user-attachments/files/26698804/Checkpoint_1_CS465.pdf)
 https://www.overleaf.com/read/xcbwvtxyhvbt#15329f
